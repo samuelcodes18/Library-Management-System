@@ -1,2 +1,0 @@
-echo *.class > .gitignore
-echo .vscode/ >> .gitignore
